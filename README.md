@@ -61,9 +61,9 @@ Material brands invest heavily in marketing, but leads are often lost due to:
 
 ## 🏗️ High-Level Architecture
 
-```
+
 <img src="./images/image.png">
-```
+
 
 ---
 
